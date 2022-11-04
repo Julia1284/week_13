@@ -18,8 +18,9 @@ class _HomePageState extends State<HomePage>
   @override
   void initState() {
     super.initState();
+    // FlameAudio.bgm.play('fonemusic.mp3', volume: 0.2);
     controller =
-        AnimationController(vsync: this, duration: Duration(minutes: 1))
+        AnimationController(vsync: this, duration: const Duration(minutes: 1))
           ..repeat();
     animation = Tween<double>(begin: 0, end: 2 * math.pi).animate(controller);
   }
@@ -52,9 +53,9 @@ class _HomePageState extends State<HomePage>
               ),
               ElevatedButton(
                   onPressed: () => Navigator.of(context).push(CustomPageRoute(
-                        child: ListPage(),
+                        child: const ListPage(),
                       )),
-                  child: Text(
+                  child: const Text(
                     'Start',
                     style: TextStyle(color: Colors.grey),
                   ))
@@ -72,7 +73,7 @@ class CustomPageRoute extends PageRouteBuilder {
   CustomPageRoute({
     required this.child,
   }) : super(
-            transitionDuration: Duration(seconds: 1),
+            transitionDuration: const Duration(seconds: 1),
             pageBuilder: (context, animation, secondaryAnimation) => child);
 
   @override

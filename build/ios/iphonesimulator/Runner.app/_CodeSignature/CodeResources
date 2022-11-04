@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		RRLpLO98AC1fGZn8irE5rclScnk=
+		h+Y5L/6RBrZBUJboEDliMxlLkyY=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		wdXjN2n9cxdrQr8Mi3n89iNGsTU=
+		Z9btJDKXDAWG8/QEEfM6I4MnyT0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		Z5sEt+d3Swhq6knmqN0dGKUD2Ds=
+		fdrQB5mXgvB3G/uVX9/gsaF6S4w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		xTv4xP8BcRwkPdryaG5ai9porwI=
+		IKDjcdvnOX3Jb32bGyE+XJKG624=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/%20earth_main.png</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/audio/fonemusic.mp3</key>
 		<data>
-		4ZMt3S5E9p0V00FHUcdL67rOAK8=
+		1cnLzfo+wumlAJgVfiS7BN8ZvOo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/background.jpg</key>
 		<data>
@@ -79,6 +79,34 @@
 		<key>Frameworks/App.framework/flutter_assets/assets/images/earth.png</key>
 		<data>
 		ZaGSsvdatdCuBtBTb+DPfifKDec=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/jupiter.png</key>
+		<data>
+		WAWVcTmG3gIhWN5YQ08Fkq3r0Eo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/mars.png</key>
+		<data>
+		6IuQoXsnS5QoY/urQJKq73BhkEA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/mercuriy.png</key>
+		<data>
+		WQPjwmW+MmKKSCRM6QS7lBGEz50=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/neptun.png</key>
+		<data>
+		4v3uRgxqi/Awgr2qBvau4GxHd/8=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/saturn.png</key>
+		<data>
+		zJs8SNry/wqCeiuE4omkbc0wedo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/uran.png</key>
+		<data>
+		543DjbxoqHsy5s12OSePoLvqDbo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/venera.png</key>
+		<data>
+		MO/YKOrh5DP93zl2zlzcDnIEDys=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -90,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		GznJkdUI7pgOTpNLIUUkMTfHmO0=
+		roh8OO1+QCaVl9PgGoaYrQXDDqc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -188,9 +216,33 @@
 		<data>
 		q5acp6rOkQ+ckG1e10c6ecrMr8U=
 		</data>
+		<key>Frameworks/audioplayers_darwin.framework/Info.plist</key>
+		<data>
+		SFBYT3zKIO22E2X3Dry3xBKzSNQ=
+		</data>
+		<key>Frameworks/audioplayers_darwin.framework/_CodeSignature/CodeResources</key>
+		<data>
+		TVpZJwmJavNN2VOdQD7ZdhTWlwM=
+		</data>
+		<key>Frameworks/audioplayers_darwin.framework/audioplayers_darwin</key>
+		<data>
+		OFRlnZmb92OhwCnPch+Dz+5SSbg=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
+		<data>
+		DYkW1koNDb69ynAOZjZYGDGIY/I=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
+		<data>
+		w563vwRFKT4fciXf4tAVf3s7vVI=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
+		<data>
+		1Zi1UbPk25E2RPEPO2DdrPZG7f0=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		8l/8NQRGeDrin0FEDqWJmEfj4/8=
+		s4znrslaLpQ6rNsqegN6fxUxvaU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -273,7 +325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W4CtntWKGNXtAPg+nus56sA+jb9OsPNvEQQuQoN60ps=
+			LFc2HLJpBNJNyxKY6AOKYdg71BfPOErW38tQecpO9zE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -287,14 +339,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/VLjmQ89IF6hyT2ywO5T4d9f6bv26KPf0ai0WCfpp/c=
+			830wFo4AHHubqn2qP10n5GRpOxe40/XhqVw2zOeGVeI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cCCfiNOfNTvmvwIQvkXDbRjsRpQRRBgQWZXmxJDRdEM=
+			PximYIuPFY3Ums/ehuQjJ1AlKC3zNvALJ0UQZel2uJ4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -308,14 +360,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFYWQ+t+cN5QBkoNHcEHdDj70uBENdQC3V0Bz7yleBA=
+			fW+Q3d2FL0z4gpUvjVsZqaJU07nff6xZOBq1R6ECbHQ=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/%20earth_main.png</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/audio/fonemusic.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iC3fv2/FqUvpRh2FeTJ42AgelAbvJdiChTrT7mqDAx0=
+			8CKqaSiy/hSVT3Ci22ffjVHPPEGZ1Ckv1aR48Hgmt/o=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/background.jpg</key>
@@ -330,6 +382,55 @@
 			<key>hash2</key>
 			<data>
 			iZ7cpoMX93KCwEqwbkUNK10Woi9bse0dm2kC86LB7kc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/jupiter.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			85001YpS7Q/VTCxkQj6Xr2LuQVzAjhAmFLDS3XCnRMs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/mars.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ekWYIIKeJd/7IBRmqN6y6LcjA85U1Gdr732alzkHHgU=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/mercuriy.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jn4irR7uwZaXeNto3tTCadRkaPp/WtbCafnVERaMU80=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/neptun.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lDPoY0lrmVeDZ4ipwEgJrUShbrQAttrgOLWQDcRY6E8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/saturn.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KeE9+0QJZkOjDRvd1XXBnpxLHrV86W3W+zN0o5gsUJk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/uran.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XdiSX2fIItgvLwlooB8fmTQzC56+uXGL/Brxmio19OQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/venera.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bZSOlH8P+UTnnr4GQ1/VUvG51S/sVjsE2Dkk1VnWkgE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -350,7 +451,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+2miGJiGHd/sgZrVVZNjXv0XhoOpf1bmst6x7U/NXXI=
+			42Un1cSDn66EBdjI3+VsitBOpE+XNb58EE1XDXteQVQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -519,6 +620,48 @@
 			<key>hash2</key>
 			<data>
 			sA+D9pONLsc1rI+XDHefj/KAY7kac9Ait6lUu4UjHDg=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers_darwin.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NYHbb5UKprDj96JnuNi3ZRC4mjCPmK+FHsMNoc/Y4wE=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers_darwin.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			suPRjRcCJbE1+7x0r2yuApIJZv0FYIkR1h9cb0aXgWY=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers_darwin.framework/audioplayers_darwin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Kf/Cfn9ictjTC/+WxS4b7/k0b741YkxDbO/5T0QRXME=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TAU1C8EUvFCNxyV5d2Yh4a/Gki8hCQ3gsrJf+9kaHfw=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3qsCviZZs8uhKzMpmKJfO0ybnNVsQLFz6bRYQuSxcUk=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2FlLo9M04x0wTv96tIre3d3gfr7i664p7RDF/4W1y0s=
 			</data>
 		</dict>
 	</dict>

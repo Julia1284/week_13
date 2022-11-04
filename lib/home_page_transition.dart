@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:week_13/list_page.dart';
 
 // поворот Земли с помощью RotationTransition
 class HomePageTransition extends StatefulWidget {
@@ -16,7 +17,7 @@ class _HomePageTransitionState extends State<HomePageTransition>
   void initState() {
     super.initState();
     controller =
-        AnimationController(vsync: this, duration: Duration(minutes: 1))
+        AnimationController(vsync: this, duration: const Duration(minutes: 1))
           ..repeat();
   }
 
@@ -46,8 +47,13 @@ class _HomePageTransitionState extends State<HomePageTransition>
                     const Image(image: AssetImage('assets/images/earth.png')),
               ),
               ElevatedButton(
-                  onPressed: () {},
-                  child: Text(
+                  onPressed: () {
+                    onPressed:
+                    () => Navigator.of(context).push(CustomPageRoute(
+                          child: const ListPage(),
+                        ));
+                  },
+                  child: const Text(
                     'Start',
                     style: TextStyle(color: Colors.grey),
                   ))
@@ -57,4 +63,22 @@ class _HomePageTransitionState extends State<HomePageTransition>
       ),
     );
   }
+}
+
+class CustomPageRoute extends PageRouteBuilder {
+  final Widget child;
+
+  CustomPageRoute({
+    required this.child,
+  }) : super(
+            transitionDuration: const Duration(seconds: 1),
+            pageBuilder: (context, animation, secondaryAnimation) => child);
+
+  @override
+  Widget buildTransitions(BuildContext context, Animation<double> animation,
+          Animation<double> secondaryAnimation, Widget child) =>
+      ScaleTransition(
+        scale: animation,
+        child: child,
+      );
 }

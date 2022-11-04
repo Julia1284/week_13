@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		Z5sEt+d3Swhq6knmqN0dGKUD2Ds=
+		fdrQB5mXgvB3G/uVX9/gsaF6S4w=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		xTv4xP8BcRwkPdryaG5ai9porwI=
+		IKDjcdvnOX3Jb32bGyE+XJKG624=
 		</data>
-		<key>flutter_assets/assets/images/%20earth_main.png</key>
+		<key>flutter_assets/assets/audio/fonemusic.mp3</key>
 		<data>
-		4ZMt3S5E9p0V00FHUcdL67rOAK8=
+		1cnLzfo+wumlAJgVfiS7BN8ZvOo=
 		</data>
 		<key>flutter_assets/assets/images/.DS_Store</key>
 		<data>
-		lVlUIdwI3ryyjdx4n5Lvw4BqxCY=
+		H5EMOxgVivj6izaMPMnb3S7iHyE=
 		</data>
 		<key>flutter_assets/assets/images/background.jpg</key>
 		<data>
@@ -35,6 +35,34 @@
 		<key>flutter_assets/assets/images/earth.png</key>
 		<data>
 		ZaGSsvdatdCuBtBTb+DPfifKDec=
+		</data>
+		<key>flutter_assets/assets/images/jupiter.png</key>
+		<data>
+		WAWVcTmG3gIhWN5YQ08Fkq3r0Eo=
+		</data>
+		<key>flutter_assets/assets/images/mars.png</key>
+		<data>
+		6IuQoXsnS5QoY/urQJKq73BhkEA=
+		</data>
+		<key>flutter_assets/assets/images/mercuriy.png</key>
+		<data>
+		WQPjwmW+MmKKSCRM6QS7lBGEz50=
+		</data>
+		<key>flutter_assets/assets/images/neptun.png</key>
+		<data>
+		4v3uRgxqi/Awgr2qBvau4GxHd/8=
+		</data>
+		<key>flutter_assets/assets/images/saturn.png</key>
+		<data>
+		zJs8SNry/wqCeiuE4omkbc0wedo=
+		</data>
+		<key>flutter_assets/assets/images/uran.png</key>
+		<data>
+		543DjbxoqHsy5s12OSePoLvqDbo=
+		</data>
+		<key>flutter_assets/assets/images/venera.png</key>
+		<data>
+		MO/YKOrh5DP93zl2zlzcDnIEDys=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -46,7 +74,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		GznJkdUI7pgOTpNLIUUkMTfHmO0=
+		roh8OO1+QCaVl9PgGoaYrQXDDqc=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -67,7 +95,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cCCfiNOfNTvmvwIQvkXDbRjsRpQRRBgQWZXmxJDRdEM=
+			PximYIuPFY3Ums/ehuQjJ1AlKC3zNvALJ0UQZel2uJ4=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -81,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFYWQ+t+cN5QBkoNHcEHdDj70uBENdQC3V0Bz7yleBA=
+			fW+Q3d2FL0z4gpUvjVsZqaJU07nff6xZOBq1R6ECbHQ=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/images/%20earth_main.png</key>
+		<key>flutter_assets/assets/audio/fonemusic.mp3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iC3fv2/FqUvpRh2FeTJ42AgelAbvJdiChTrT7mqDAx0=
+			8CKqaSiy/hSVT3Ci22ffjVHPPEGZ1Ckv1aR48Hgmt/o=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/background.jpg</key>
@@ -103,6 +131,55 @@
 			<key>hash2</key>
 			<data>
 			iZ7cpoMX93KCwEqwbkUNK10Woi9bse0dm2kC86LB7kc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/jupiter.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			85001YpS7Q/VTCxkQj6Xr2LuQVzAjhAmFLDS3XCnRMs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/mars.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ekWYIIKeJd/7IBRmqN6y6LcjA85U1Gdr732alzkHHgU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/mercuriy.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jn4irR7uwZaXeNto3tTCadRkaPp/WtbCafnVERaMU80=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/neptun.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lDPoY0lrmVeDZ4ipwEgJrUShbrQAttrgOLWQDcRY6E8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/saturn.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KeE9+0QJZkOjDRvd1XXBnpxLHrV86W3W+zN0o5gsUJk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/uran.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XdiSX2fIItgvLwlooB8fmTQzC56+uXGL/Brxmio19OQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/venera.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bZSOlH8P+UTnnr4GQ1/VUvG51S/sVjsE2Dkk1VnWkgE=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -123,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+2miGJiGHd/sgZrVVZNjXv0XhoOpf1bmst6x7U/NXXI=
+			42Un1cSDn66EBdjI3+VsitBOpE+XNb58EE1XDXteQVQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
