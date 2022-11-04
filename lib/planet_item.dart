@@ -25,7 +25,6 @@ class _PlanetItemState extends State<PlanetItem>
     with SingleTickerProviderStateMixin {
   bool showPicker = false;
   late AnimationController _controller;
-  late AnimationController _controllerDropDown;
 
   late final Animation<double> _animation;
   late final Animation<double> _animationDropDown;
@@ -34,7 +33,7 @@ class _PlanetItemState extends State<PlanetItem>
   void initState() {
     super.initState();
     _controller =
-        AnimationController(vsync: this, duration: Duration(seconds: 1));
+        AnimationController(vsync: this, duration: const Duration(seconds: 1));
 
     _animation = CurvedAnimation(
       parent: _controller,
@@ -77,7 +76,7 @@ class _PlanetItemState extends State<PlanetItem>
                 )),
           ),
         ),
-        Container(
+        SizedBox(
           width: MediaQuery.of(context).size.width / 3 * 2, //change
           child: Column(
             children: [
